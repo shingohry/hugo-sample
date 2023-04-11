@@ -16,5 +16,5 @@ disqusShortname = "sitename"
 [params]
   # search_engine = true
   # google_analytics_id = "XX-XXXXXXXX-X"
-  # twitter_username = "username"
-  paginate = true
+  twitter_username = "shingohry"
+  paginate = 5
