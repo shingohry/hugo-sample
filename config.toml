@@ -6,7 +6,7 @@ baseUrl = "https://shingohry.github.io/hugo-sample/"
 canonifyurls = true
 title = "Pixyll"
 author = "admin"
-theme = "pixyll"
+theme = "hugo-theme-pixyll"
 disqusShortname = "sitename"
 
 [indexes]
