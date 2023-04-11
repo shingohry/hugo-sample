@@ -1,0 +1,4 @@
+theme = 'ananke'
+baseURL = 'https://shingohry.github.io/hugo-sample/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
